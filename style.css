@@ -11,30 +11,38 @@
 }
 #searchInput{
     width: 75%;
+    height: 50px;
     padding: 5px;
-    border-radius: 10px;
+    border-radius: 20px;
     text-align: center;
+    font-size: 30px;
 }
 .button-wrapper{
     margin: 10px 0px;
 }
 #searchButton{
     width: 180px;
+    height: 40px;
     border-radius: 5px;
     box-shadow: 1px 3px 5px;
     border: none;
     background-color: #479428;
     color: #e0e8dc;
     padding: 5px;
+    margin-right: 20px;
+    font-size: 24px;
 }
 #clearButton{
     width: 180px;
+    height: 40px;
     border-radius: 5px;
     border: none;
     box-shadow: 1px 3px 5px;
     background-color: #b82b12;
     color: #e0e8dc;
     padding: 5px;
+    margin-left: 20px;
+    font-size: 24px;
 }
 .imageList-wrapper{
     display: flex;
